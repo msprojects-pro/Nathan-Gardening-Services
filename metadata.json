@@ -1,0 +1,6 @@
+{
+  "name": "Nathan's Gardening Services",
+  "description": "Multi Award Winning Gardeners in Norfolk, UK. Specialising in full garden tidy ups, regular lawn maintenance, hedge cutting, fencing, and complete garden care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
